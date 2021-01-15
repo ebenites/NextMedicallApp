@@ -1,0 +1,10 @@
+
+m
+java:S1301'"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ8øµ†êí.
+C	java:S131'""Add a default case to this switch.(øå´¡ÿÿÿÿÿ8ÖÚÿéí.
+X	java:S110"<This class has 9 parents which is greater than 5 authorized.(²Ú±8ÖÚÿéí.
+P
+java:S1128
+".Remove this unused import 'android.view.View'.(Ø½­äşÿÿÿÿ8ßÌ‚êí.
+D
+java:S1068"'Remove this unused "TAG" private field.(‘‚™´8©èêí.

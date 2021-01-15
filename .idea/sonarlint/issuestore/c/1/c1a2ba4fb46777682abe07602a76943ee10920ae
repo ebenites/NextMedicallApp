@@ -1,0 +1,20 @@
+
+D
+java:S1659^""Declare "set2" on a separate line.(«ˆŒ‚üÿÿÿÿ8Ñ•îñí.
+o
+java:S1128"RRemove this unused import 'com.github.mikephil.charting.formatter.ValueFormatter'.(‹¼Ä‚8ÅÍÙòí.
+D
+java:S1659^""Declare "set3" on a separate line.(«ˆŒ‚üÿÿÿÿ8Ñ•îñí.
+y
+java:S1128"WRemove this unused import 'com.github.mikephil.charting.formatter.IAxisValueFormatter'.(‡¸ß¼ıÿÿÿÿ8ŒÖòí.
+v
+java:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼‘ë8Ñ•îñí.
+w
+java:S1450!"URemove the "mChart" field and declare it as a local variable in the relevant methods.(Ãšİ”ÿÿÿÿÿ8ÛˆÑñí.
+v
+java:S2293R"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ‘˜Ü8Ñ•îñí.
+o
+java:S1128"MRemove this unused import 'com.github.mikephil.charting.components.AxisBase'.(ìÿªãúÿÿÿÿ8ÅÍÙòí.
+X	java:S125}"<This block of commented-out lines of code should be removed.(Ì”é›8†×Åòí.
+v
+java:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(æåÛ°8Ñ•îñí.

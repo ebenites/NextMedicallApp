@@ -1,0 +1,20 @@
+
+^	java:S125Õ"<This block of commented-out lines of code should be removed.(í¶¶×ûÿÿÿÿ8Ï°´ñí.
+\
+java:S1155ˆ">Use isEmpty() to check whether the collection is empty or not.(éä¡8˜³ëí.
+[
+java:S1128">Remove this unused import 'android.content.BroadcastReceiver'.(Ãğõğ8Èë³ñí.
+Q
+java:S1128	"4Remove this unused import 'android.content.Context'.(©Ê‰è8Èë³ñí.
+R
+java:S1128"5Remove this unused import 'android.widget.PopupMenu'.(©õ‘Ò8Èë³ñí.
+O
+java:S1128 "-Remove this unused import 'org.w3c.dom.Text'.(¶Äè‹şÿÿÿÿ8Èë³ñí.
+Y
+java:S1874Ó"6Remove this use of "ProgressDialog"; it is deprecated.(ºƒÍíøÿÿÿÿ8é„´ñí.
+Y
+java:S1874Ó"6Remove this use of "ProgressDialog"; it is deprecated.(ºƒÍíøÿÿÿÿ8é„´ñí.
+O
+java:S1874Ó",Remove this use of "show"; it is deprecated.(ºƒÍíøÿÿÿÿ8é„´ñí.
+[
+java:S1128"9Remove this unused import 'android.content.IntentFilter'.(ò³ñ£ÿÿÿÿÿ8Èë³ñí.
